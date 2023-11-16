@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/ayesha-abbasi/ayesha-abbasi/blob/main/git.png)
 <h1 align="center">Hi 👋, I'm Ayesha Abbasi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg">
